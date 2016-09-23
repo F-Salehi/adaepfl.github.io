@@ -1,0 +1,9 @@
+name: ADA EPFL
+url: http://ada.epfl.ch
+description: Applied Data Analysis course page
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
