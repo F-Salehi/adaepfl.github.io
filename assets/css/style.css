@@ -291,3 +291,7 @@ img.center {
 .intro-txt {
   margin-bottom: 30px;
 }
+
+h1 a {
+  border: none;
+}
