@@ -1,2 +1,1 @@
-# adaepfl.github.io
-ADAEPFL Website
+# [ada.epfl.ch](http://ada.epfl.ch)
