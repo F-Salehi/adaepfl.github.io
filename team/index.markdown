@@ -3,16 +3,20 @@ layout: default
 title: Team
 ---
 
-**Michele Catasta** [mail][michele-mail]
+## Lecturer
 
-**Zhicong Huang** [mail][zhicong-mail]
+**Michele Catasta** [contact][michele-contact]
 
-**Tiziano Piccardi** [mail][tiziano-mail]
+## Teaching assistants
 
-**Jérémie Rappaz** [mail][jeremie-mail]
+**Zhicong Huang** [contact][zhicong-contact]
+
+**Tiziano Piccardi** [contact][tiziano-contact]
+
+**Jérémie Rappaz** [contact][jeremie-contact]
 
 
-[michele-mail]: michele.catasta@epfl.ch
-[zhicong-mail]: zhicong.huang@epfl.ch
-[tiziano-mail]: tiziano.piccardi@epfl.ch
-[jeremie-mail]: jeremie.rappaz@epfl.ch
+[michele-contact]: https://people.epfl.ch/michele.catasta
+[zhicong-contact]: https://people.epfl.ch/zhicong.huang
+[tiziano-contact]: https://people.epfl.ch/tiziano.piccardi
+[jeremie-contact]: https://people.epfl.ch/jeremie.rappaz

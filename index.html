@@ -12,11 +12,11 @@ title:  Applied Data Analysis
 
 		{% if post.external-url %}
 			<h1>
-				<a href="{{ post.external-url }}">{{ post.title }}</a>
+				<a href="{{ post.external-url }}"><span class="postdate">{{ post.date | date: "%d/%m" }}</span> - {{ post.title }}</a>
 				<!--<a class="anchor" href="{{ post.url }}"><i class="icon-anchor"></i></a>-->
 			</h1>
 		{% else %}
-			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+			<h1><a href="{{ post.url }}"><span class="postdate">{{ post.date | date: "%d/%m" }}</span> - {{ post.title }}</a></h1>
 		{% endif %}
 
 		<!--<div class="post-content">{{ post.content }}</div>-->
