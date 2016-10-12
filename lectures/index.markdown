@@ -11,3 +11,6 @@ title: Lectures
 
 # [Lecture 03 - V for Variety][lec3]
 [lec3]: https://docs.google.com/presentation/d/12B9Xd5uIT1RVw_o2c9H1c-0u50fV1-UdMHGa2aw71hI/edit?usp=sharing
+
+# [Lecture 04 - Read the Stats carefully][lec4]
+[lec4]: https://docs.google.com/presentation/d/1ePWXvwJkUrYBvoAzOqIigFLOh4ZDjhh3x1gkp8znCrg/edit?usp=sharing
